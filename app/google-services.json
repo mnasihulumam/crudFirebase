@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863056822492",
+    "project_id": "fir-dosen-8ec91",
+    "storage_bucket": "fir-dosen-8ec91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863056822492:android:9b3e2b56e47808c688f419",
+        "android_client_info": {
+          "package_name": "com.example.firabasedosen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863056822492-fg6sro46n1kublv1o5nljh12jg96v6cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3moRpehFC6dtOk3kSPZ9BotFsKGiALQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863056822492-fg6sro46n1kublv1o5nljh12jg96v6cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
